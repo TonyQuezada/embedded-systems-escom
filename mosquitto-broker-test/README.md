@@ -297,10 +297,14 @@ esp32/test Mensaje #3 desde ESP32 | Uptime: 15s
 
 ### Instalación Mosquitto
 <img src="images/instalation.png" alt="Instalación de Mosquitto" width="600"/>
+
 ---
+
 ### Test publisher
 <img src="images/publisher.png" alt="Subscriber en Raspberry Pi" width="600"/>
+
 ---
+
 ### Esp32 publisher
 <img src="images/esp32.png" alt="Monitor Serial ESP32" width="600"/>
 
