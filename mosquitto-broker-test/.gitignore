@@ -1,0 +1,19 @@
+# Arduino
+*.elf
+*.bin
+*.hex
+build/
+.arduino15/
+
+# PlatformIO
+.pio/
+.vscode/
+__pycache__/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales (¡nunca subas tus contraseñas!)
+secrets.h
+config_private.h
